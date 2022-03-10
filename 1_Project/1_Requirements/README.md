@@ -7,6 +7,11 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 ## Abstract :
  RKE systems for cars can be used to control the vehicle's ignition system, security alarm, horn, lights and trunk. RKEs are also used to control entry to premises and specific areas of buildings, such as garages. While the use of RKE is uncommon on buildings outside of businesses, some home automation and security systems rely on the technology as well.
 
+# Identifying features
+* It shall print lock and turn on all the led at the same time when blue switch is pressed only once.
+* It shall print unlock and turn off all the led at the same time when blue switch is pressed twice.
+* It shall print alaram activated and turn on all the led in clockwise manner when blue switch is pressed three times.
+* It shall print approach light and turn on all the led in anti-clockwise manner when blue switch is pressed four times.
 
 # Requirements :
 ## High level Requirements :
