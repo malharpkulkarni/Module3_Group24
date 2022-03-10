@@ -21,8 +21,8 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 ## Low level Requirements:
 |    LLR       |              Description                  |
 |-------------------------------|:------------------------------------------|
-| LLR1 | If User press blue switch ON, Then all led ON at the same time.|
-| LLR2 | If User press blue switch two times,Then all led off at the same time . |
-| LLR3 | If User Press blue switch thress times,Then all led on in clockwise manner.|
-| LLR4 | If user press blue switch four times,Then all led on in anti-clockwise manner.|
+| LLR1 | If User press blue switch ON, Then all led ON at the same time |
+| LLR2 | If User press blue switch two times,Then all led off at the same time |
+| LLR3 | If User Press blue switch thress times,Then all led on in clockwise manner|
+| LLR4 | If user press blue switch four times,Then all led on in anti-clockwise manner|
 
