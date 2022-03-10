@@ -31,3 +31,7 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 | LLR2 |The system shall unlock the door when blue switch is pressed twice |  Technical |
 | LLR3 | The system shall activate the alarm when the blue switch is pressed three times|  Technical |
 | LLR4 |The system shall approach the light when the blue switch is pressed four times|  Technical |
+
+# 4W's & 1H
+
+![Screenshot (108)](https://user-images.githubusercontent.com/98826329/157712224-e4449826-10f5-45ab-8926-79f331409289.png)
