@@ -20,7 +20,7 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
  |-------------------------------|:------------------------------------------|------------|
  | HLR1                          | It shall Lock the door   | Technical |
  |  HLR2                        | It shall Unlock the door  | Technical |
- | HLR3                          |It shall activate or deactivate the alaram  | Technical |
+ | HLR3                          |It shall activate or deactivate the alarm  | Technical |
  | HLR4                          | It shall approach the light | Technical |
 
  
