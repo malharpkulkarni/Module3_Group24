@@ -10,7 +10,7 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 # Identifying features
 * It shall print lock and turn on all the led at the same time when blue switch is pressed only once.
 * It shall print unlock and turn off all the led at the same time when blue switch is pressed twice.
-* It shall print alarm activated and turn on all the led in clockwise manner when blue switch is pressed three times.
+* It shall print alarm activated or deactivated and turn on all the led in clockwise manner when blue switch is pressed three times.
 * It shall print approach light and turn on all the led in anti-clockwise manner when blue switch is pressed four times.
 * It shall implement encryption and rolling algorithms.
 
