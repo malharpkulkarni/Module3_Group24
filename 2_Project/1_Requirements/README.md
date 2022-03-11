@@ -32,6 +32,7 @@
 | LLR4 |The system shall check the door status when the blue switch is pressed four times|  Technical |
 
 # SWOT Analysis :
+![Swot_Analysis](https://user-images.githubusercontent.com/46956641/157934597-dba04b52-60d6-4c7d-b1f0-d37ef736909d.png)
 
 # 4W's & 1H :
 ![Screenshot (112)](https://user-images.githubusercontent.com/98826329/157823876-3c575e95-a0f3-4efc-9cdc-06a9b84ceb3a.png)
