@@ -34,3 +34,5 @@
 # SWOT Analysis :
 
 # 4W's & 1H :
+![Screenshot (112)](https://user-images.githubusercontent.com/98826329/157823876-3c575e95-a0f3-4efc-9cdc-06a9b84ceb3a.png)
+
