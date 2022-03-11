@@ -1,6 +1,6 @@
 ## High level test plan :
 
-|Test ID | Description |  Expected Input   |   Expected output   |   Actual output   |   Status   |
+|Test ID | Description |   Input   |   Expected output   |   Actual output   |   Status   |
 |:-------|:------------|:-----------|:------------|:---------------|:-----------------|
 |HLR_1 | Car Lock| Button is pressed one time  |  Car Window status   |     Displayed Car Window status  |  ✅ | 
 |HLR_2 |Car unlock| Button is pressed two times	 | Car alarm status|	Displayed Car alarm status  |✅  |                   
@@ -10,7 +10,7 @@
 
 
 ## Low Level test plan :
-|Test ID | Description |  Input   |   Exp O/P   |   Actual Out   |   Status   |
+|Test ID | Description |  Input   |   Expected output   |   Actual Output   |   Status   |
 |:-------|:------------|:-----------|:------------|:---------------|:-----------------|
 | LLR_1 | Car Lock| Button is pressed one time | All LEDs will be ON and Print Car Window status | All LEDs will be ON and Print Car Window status |✅ |
 | LLR_2 |Car unlock |Button is pressed two times| All LEDs will be OFF and Print  Car alarm status| All LEDs will be OFF and Print  Car alarm status | ✅ |
