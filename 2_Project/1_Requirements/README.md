@@ -10,10 +10,7 @@
 * It shall print window status and turn on all the led at the same time when blue switch is pressed only onces.
 * It shall print alarm status and turn off all the led at the same time when blue switch is pressed twice.
 * It shall print car battery information and tuen on all the led in clockwise manner when blue switch is pressed three times.
-* It shall print door status and turn on all the led in anti-clockwise manner whenblue switch is pressed four times.
-
-
-
+* It shall print door status and turn on all the led in anti-clockwise manner when blue switch is pressed four times.
 
 
 # Requirements :
@@ -33,3 +30,7 @@
 | LLR2 |The system sshall check alarm status when blue switch is pressed twice |  Technical |
 | LLR3 | The system shall get the battery information when the blue switch is pressed three times|  Technical |
 | LLR4 |The system shall check the door status when the blue switch is pressed four times|  Technical |
+
+# SWOT Analysis :
+
+# 4W's & 1H :
