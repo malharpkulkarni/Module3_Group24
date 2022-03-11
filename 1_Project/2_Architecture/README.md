@@ -1,4 +1,4 @@
-# # Block Diagram:
+# Block Diagram:
 ![blockdiagram](https://user-images.githubusercontent.com/42562641/157853373-474f64a8-5aa3-43e0-9859-918a6d484591.jpg)
 
 
