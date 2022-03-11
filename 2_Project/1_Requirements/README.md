@@ -2,7 +2,7 @@
 
 ## Description:
 
-  A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system and This system enables the transfer of data from both the ends.
+  This project is an BiCom System ,A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system and This system enables the transfer of data from both the ends.
  * keyfob -> car (like a unidirectional RKE system) 
  * car ->keyfob (car status information for displaying on the keyfob by LED or display) 
 
