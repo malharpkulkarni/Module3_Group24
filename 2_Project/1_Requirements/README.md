@@ -6,7 +6,11 @@
  * keyfob -> car (like a unidirectional RKE system) 
  * car ->keyfob (car status information for displaying on the keyfob by LED or display) 
 
-
+# Identifying features :
+* It shall print window status and turn on all the led at the same time when blue switch is pressed only onces.
+* It shall print alarm status and turn off all the led at the same time when blue switch is pressed twice.
+* It shall print car battery information and tuen on all the led in clockwise manner when blue switch is pressed three times.
+* It shall print door status and turn on all the led in anti-clockwise manner whenblue switch is pressed four times.
 
 
 
