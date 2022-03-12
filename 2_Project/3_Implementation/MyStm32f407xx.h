@@ -617,10 +617,10 @@ typedef struct
 //#include "stm32f407xx_i2c_driver.h"
 //#include "stm32f407xx_usart_driver.h"
 //#include "stm32f407xx_rcc_driver.h"
-void Doors_Lock();
-void Doors_Unlock();
-void Alarm_Act_Dct();
-void Approach_light();
+void window_status();
+void alarm_status();
+void battery_info();
+void door_status();
 void delayf(void);
 void delay(void);
 

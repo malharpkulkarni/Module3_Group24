@@ -2,14 +2,14 @@
 #include<stdio.h>
 #define ButtonPress ENABLE
 
-void Doors_Lock();
-void Doors_Unlock();
-void Alarm_Act_Dct();
-void Approach_light();
+void window_status();
+void alarm_status();
+void battery_info();
+void door_status();
 void delayf(void);
 void delay(void);
 
-void Doors_Lock()
+void window_status()
 {
  while(1)
   {
@@ -24,7 +24,7 @@ void Doors_Lock()
   }
 }
 
-void Doors_Unlock()
+void alarm_status()
 {
  while(1)
   {
@@ -39,7 +39,7 @@ void Doors_Unlock()
   }
 }
 
-void Alarm_Act_Dct()
+void battery_info()
 {
  while(1)
  {
@@ -57,7 +57,7 @@ void Alarm_Act_Dct()
  }
 }
 
-void Approach_light()
+void door_status()
 {
  while(1)
   {
@@ -133,13 +133,13 @@ int main(void)
  int counter= ButtonPress;
  switch(counter)
  {
- case 1: Doors_Lock();
+ case 1: window_status();
   break;
- case 2: Doors_Unlock();
+ case 2: alarm_status();
   break;
- case 3: Alarm_Act_Dct();
+ case 3: battery_info();
   break;
- case 4: Approach_light();
+ case 4: door_status();
   break;
  default:
   break;
