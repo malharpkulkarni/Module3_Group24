@@ -1,5 +1,5 @@
 # Block Diagram:
-![blockdiagram](https://user-images.githubusercontent.com/42562641/157853689-3cc68894-ffe4-40e7-9fbd-be847abbfb43.jpg)
+![blockdiagram (1)](https://user-images.githubusercontent.com/42562641/158001609-0cc30f00-1550-4cb2-8d94-d2650a5967be.jpg)
 
 
 # USE CASE Diagram:
