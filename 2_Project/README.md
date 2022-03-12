@@ -1,4 +1,5 @@
-# Bicom 
+# Bicom system :
+This project is an BiCom System, A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system and This system enables the transfer of data from both the ends.
 
 
 ## Folder structure :
