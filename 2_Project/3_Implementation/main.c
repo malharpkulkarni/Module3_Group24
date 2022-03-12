@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author Group 66
+ * @author Group 24
  * @brief  system as a bidirectional system 
  * @version 0.1
  * @date 2022-03-10
