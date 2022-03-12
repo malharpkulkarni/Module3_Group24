@@ -2,14 +2,7 @@
 RKE( Remote Keyless Entry )
 
 ## 2_Project  :
-Bicom system 
-
-
-## Work Flow
-
-|       Codiga     |          Codacy             |
-|-------------------------------|:------------------------------------------|
-|                  |            |                 |                         |                                                  
+Bicom system                                                 
 
 ## Contributions
 | Contents | Accomplished By |
